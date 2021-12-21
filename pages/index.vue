@@ -9,7 +9,7 @@
 </svg>
     </span>
   </div>
-  <h3 class="text-gray-800 dark:text-teal-600 mt-5 text-base font-medium tracking-tight">Writes Upside-Down</h3>
+  <h3 class="text-gray-800 dark:text-teal-600 mt-5 text-base font-medium tracking-tight">Writes Upside-Down to Topless</h3>
   <p class="text-gray-500 dark:text-gray-300 mt-2 text-sm">
     The Zero Gravity Pen can be used to write in any orientation, including upside-down. It even works in outer space.
   </p>
